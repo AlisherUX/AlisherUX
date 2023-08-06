@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlisherUX
+- 👋 Hi, I’m Alisher Abdirimov
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Backend site
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
