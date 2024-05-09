@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlisherUX
+- 👀 I’m interested in FrontEnd development
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me `@Abdirimov_Alisher` on telegram
