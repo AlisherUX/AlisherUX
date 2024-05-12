@@ -1,1 +1,2 @@
-![Group 4](https://github.com/AlisherUX/AlisherUX/assets/125187271/d2a26a8b-a528-4235-bedb-eaee68b5cab8)
+
+![Banner](https://github.com/AlisherUX/AlisherUX/assets/125187271/955bb3d6-8888-4501-8f12-cd7ced2a1a3b)
